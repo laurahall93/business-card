@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box; 
+    position: relative;
+  
+}
+.box {
+    background-color: #1A1B21;
+    width: 314px;
+    margin-inline-start: 10px;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    background-color: #23252C;
+    margin: auto;
+    height: 100vh;
+    font-family: Inter, sans-serif;
+    background-color: #23252C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+    
+
+
+#card {
+    width: 235px;
+    background-image: url(../images/laura.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px auto;
+    background-position: top center;
+    border-radius: 10px 10px 0 0;
+    padding: 400px 5px 45px 5px;
+    max-height: 445px;
+    max-width: 311px;
+    min-height: 445px;
+    min-width: 311px;
+   
+}
+    
+
+
+#card-design {
+    width: 288px;
+    height: px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+    flex-direction: column;
+   
+   
+}
+
+button {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-direction: row;
+    justify-content: center;
+    padding: 7px 55px 7px 55px;
+    margin-left: 70px;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    background: #FFFFFF;
+}
+
+.main-img {
+    width: 250px;
+    height: 345px;
+    left: 116px;
+    top: 44px;
+    border-radius: 5%;
+    padding-top: 70px;
+    object-fit: cover;
+
+
+    
+    
+    
+}
+
+
+main {
+    padding: 0px 15px;
+}
+
+
+.main-info {
+    text-align: center;
+
+}
+
+
+    
+    
+    
+ h1 {
+     font-size: 25px;
+   
+ }   
+    
+h2 {
+    color: #F3BF99;
+    font-size: 13px;
+    
+}
+
+h3 {
+    font-size: 16px;
+  
+}
+
+p {
+    color: #DCDCDC;
+    
+}
+
+
+.icons {
+ 
+    display: flex;
+    width: 315px;
+    background-color: #161619;
+    border-radius: 0 0 10px 10px;
+    text-align: center;
+    padding: 10px;
+    justify-content: space-between;
+
+}
+
